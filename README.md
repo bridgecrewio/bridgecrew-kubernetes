@@ -1,2 +1,3 @@
 # bridgecrew-kubernetes
-Resources for Kubernetes
+
+This repo provides Kubernetes manifests for use with Bridgecrew Cloud. 
